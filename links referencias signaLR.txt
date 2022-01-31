@@ -1,0 +1,7 @@
+https://damienbod.com/2018/03/19/using-message-pack-with-asp-net-core-signalr/
+
+https://dev.to/wsantosdev/playground-asp-net-core-signalr-5218
+
+https://dev.to/wsantosdev/playground-asp-net-5-signalr-3c8f
+
+http://www.macoratti.net/13/03/net_sign1.htm
